@@ -1,8 +1,8 @@
 # Site settings
 title: 老李博客
-SEOTitle: 我只是很多老李中的一个, so please call me Wilson.
+SEOTitle: 老李博客
 header-img: img/post-bg-desk.jpg
-email: klovien@gmail.com
+email: 
 description: "老李博客，人生感悟，记录生活"
 keyword: "老李博客，人生感悟，记录生活"
 url: "https://klovien.github.io"          # your host, for absolute URL
